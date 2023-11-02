@@ -22,3 +22,11 @@ Lucas Farias - 32250193
 
 
  - Execução do código pela AWS (SEM MUTEX)
+
+![image](https://github.com/brunoroveri/LAB3PT2/assets/142548195/ebeed97f-bea7-4733-b40a-e05907c8b043)
+
+![image](https://github.com/brunoroveri/LAB3PT2/assets/142548195/c7456f43-24c1-4ed8-8df4-277fabeb6bd8)
+
+![image](https://github.com/brunoroveri/LAB3PT2/assets/142548195/6f329111-63c9-4517-9bbb-539e7e1cca04)
+
+(ERRO DESCONHECIDO, NÃO CONSEGUI IMPLEMENTAR PELO AWS O SEM MUTEX)
